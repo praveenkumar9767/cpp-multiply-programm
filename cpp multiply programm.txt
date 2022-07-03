@@ -8,3 +8,4 @@ int main()
     cout<<" total = "<<num1*num2<<endl;
     return 0;
 }
+https://github.com/praveenkumar9767
